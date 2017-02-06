@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    style="@style/match_wrap"
+    android:paddingLeft="@dimen/dimen_20">
+
+    <TextView
+        android:id="@+id/tv_country_name"
+        style="@style/match_wrap"
+        android:hint="Country Name"
+        android:textSize="@dimen/font_20"/>
+
+    <TextView
+        android:id="@+id/tv_country_id"
+        style="@style/match_wrap"
+        android:hint="Country Id"
+        android:textSize="@dimen/font_20"
+        android:textStyle="bold"/>
+</LinearLayout>

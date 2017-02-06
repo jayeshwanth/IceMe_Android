@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testfb</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_status">Update</string>
+    <string name="post_image">Post Image</string>
+    <string name="app_id">1524314467898892</string>
+</resources>

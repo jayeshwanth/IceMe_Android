@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">uConnect</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="verify_phone_no">Verify Phone No</string>
+    <string name="verify_phone_no_msg">uConnect will send a one time SMS to verify your phone number. Carrier SMS charges may apply.</string>
+    <string name="enter_phone_no_msg">Please confirm your country code and enter your phone number.</string>
+
+    <!-- Alert Dialog Network connection -->
+    <string name="dg_msg_http_no_network_connection">No network found, please connect to a Wi-Fi or mobile network using device settings.</string>
+    <string name="dg_msg_http_no_network_connection_title">No Network</string>
+    <string name="dg_msg_http_failure">Unable to connect to server, please try again.</string>
+    <string name="dg_msg_http_failure_title">Connection Failure</string>
+
+</resources>

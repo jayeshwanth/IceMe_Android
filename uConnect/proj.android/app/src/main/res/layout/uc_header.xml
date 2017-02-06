@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_title"
+    android:background="@color/light_blue"
+    android:padding="@dimen/dimen_15"
+    style="@style/match_wrap">
+
+    <TextView
+        style="@style/wrap_wrap"
+        android:text="@string/verify_phone_no"
+        android:textSize="@dimen/font_18"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/dimen_20"/>
+
+    <ImageView
+        style="@style/wrap_wrap"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/dimen_20"
+        android:layout_centerVertical="true"
+        android:background="@drawable/abc_btn_radio_material"/>
+
+</RelativeLayout>
